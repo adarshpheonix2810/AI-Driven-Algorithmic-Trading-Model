@@ -182,7 +182,6 @@ pip install -r requirements.txt
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See `LICENSE` for details.
+## License
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
