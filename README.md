@@ -13,7 +13,6 @@ This repository contains a machine learning-based algorithmic trading model that
 - **GUI**: User-friendly interface for testing the model on new stock data.
 
 ---
-
 ## **Demo**
 
 ### **GUI**
@@ -44,7 +43,6 @@ The project provides a GUI to input stock features and receive predictions:
 ├── README.md # Project documentation
 
 ---
-
 ## **Getting Started**
 
 Follow these steps to set up and run the project locally.
